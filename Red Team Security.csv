@@ -1,0 +1,5 @@
+Title,Threat Agent,Vulnerability Factors,Tech Impact,Biz Impact,Instances,Rating,Type
+Shared Password,8,8,8,8,1,8,critical
+SMB Sign Not Enabled,6,8,7,7,9,7,high
+DNS Cache Snooping,5,1,5,5,3,4,medium
+Apache mod_negotiations,1,1,2,1,1,1.25,low
